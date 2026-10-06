@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+outputs/*
+!outputs/.gitkeep
+.DS_Store
+Thumbs.db
