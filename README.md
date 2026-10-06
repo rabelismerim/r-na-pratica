@@ -109,20 +109,4 @@ Esses arquivos são ignorados pelo Git. As cópias em `docs/images/` estão incl
 
 ![Gráfico de dispersão do preço e peso de diamantes, com curvas por pureza](docs/images/diamantes.png)
 
-Para regenerar os gráficos e atualizar as imagens da documentação:
 
-```sh
-Rscript scripts/atualizar_imagens.R
-```
-
-A trilha completa de 14 exemplos foi executada com sucesso em **6 de outubro de 2026**, gerando os três PNGs de 1400 × 900 pixels. O diagrama no início do README ilustra a sequência de estudos.
-
-## Como continuar os estudos
-
-1. Execute os exercícios na ordem das pastas e altere os valores para observar os resultados.
-2. Compare o cálculo com laços e a multiplicação vetorizada em `03_vetorizacao.R`.
-3. Selecione diferentes jogadores com `myplot(Games, rows = c(1, 3, 5))` no projeto de funções.
-4. Experimente outros filtros, cores e títulos no projeto de diamantes.
-5. Adicione novos mini projetos em pastas numeradas, documentando os dados e as dependências.
-
-Os 14 arquivos originais foram reorganizados e receberam nomes sem espaços ou acentos. Também foram corrigidos comandos que impediam a execução, removida a instalação de pacotes de dentro da análise e incluídos dados de exemplo para tornar a trilha independente de objetos previamente carregados no console.
