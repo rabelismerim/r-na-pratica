@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mini projetos em R: trilha de estudos</title>
+  <desc id="desc">Fundamentos, controle de fluxo, vetores e matrizes levam aos projetos de basquete e diamantes.</desc>
+  <rect width="1000" height="300" rx="18" fill="#102235"/>
+  <g font-family="Arial, sans-serif">
+    <text x="40" y="58" font-size="30" font-weight="bold" fill="#fff">Mini projetos em R</text>
+    <text x="40" y="88" font-size="16" fill="#adc1d4">Uma trilha prática: dos primeiros comandos à visualização de dados</text>
+    <path d="M120 160H875" stroke="#688198" stroke-width="3"/>
+    <g fill="#237cad" stroke="#5abfe7" stroke-width="2">
+      <circle cx="120" cy="160" r="25"/><circle cx="310" cy="160" r="25"/>
+      <circle cx="500" cy="160" r="25"/><circle cx="690" cy="160" r="25"/>
+      <circle cx="880" cy="160" r="25"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-size="19" font-weight="bold">
+      <text x="120" y="167">1</text><text x="310" y="167">2</text>
+      <text x="500" y="167">3</text><text x="690" y="167">4</text><text x="880" y="167">5</text>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-size="16">
+      <text x="120" y="216">Fundamentos</text><text x="310" y="216">Controle de fluxo</text>
+      <text x="500" y="216">Vetores</text><text x="690" y="216">Matrizes</text><text x="880" y="216">Mini projetos</text>
+    </g>
+    <g fill="#adc1d4" text-anchor="middle" font-size="13">
+      <text x="120" y="242">Tipos e operações</text><text x="310" y="242">Condições e laços</text>
+      <text x="500" y="242">Índices e vetorização</text><text x="690" y="242">Seleção e cálculos</text>
+      <text x="880" y="242">Basquete e diamantes</text>
+    </g>
+  </g>
+</svg>
